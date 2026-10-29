@@ -1,0 +1,6 @@
+{
+  "name": "Mini Payment Switch & Ledger Platform",
+  "description": "Enterprise payment switch, double-entry ledger engine, failure simulation matrix, and bank reconciliation platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
